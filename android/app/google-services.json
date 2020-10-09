@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "444453190481",
+    "firebase_url": "https://mawasmbookstore-7e9ad.firebaseio.com",
+    "project_id": "mawasmbookstore-7e9ad",
+    "storage_bucket": "mawasmbookstore-7e9ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444453190481:android:2d5e7591a29af3ca013170",
+        "android_client_info": {
+          "package_name": "com.example.mawasm_bookstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444453190481-74j4e6nfk3pukbshmt3rpo6fs01f26n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATEY8sE9VzPc3aPcV8IGZriRKFztNqaxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444453190481-74j4e6nfk3pukbshmt3rpo6fs01f26n0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
